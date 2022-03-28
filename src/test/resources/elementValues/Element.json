@@ -1,0 +1,72 @@
+[
+  {"key": "Login_Giris_Button",
+    "value": "login",
+    "type" : "id"
+  },
+
+  {"key": "Login_Email_Input",
+    "value": "txtUserName",
+    "type" : "id"
+  },
+  {"key": "Login_Email_Button",
+    "value": "btnLogin",
+    "type" : "id"
+  },
+  {"key": "Login_Password_Input",
+    "value": "txtPassword",
+    "type" : "id"
+  },
+  {"key": "Login_Password_Button",
+    "value": "btnEmailSelect",
+    "type" : "id"
+  },
+  {"key": "Urun_Arama_Input",
+    "value": "//input[@type='text']",
+    "type" : "xpath"
+  },
+  {"key": "Hesaba_Giris_Dogrulama",
+    "value": "myAccount",
+    "type" : "id"
+  },
+  {"key": "Urun_Arama_List",
+    "value": "(//div[@data-test-id='product-card-container'])[1]//a",
+    "type" : "xpath"
+  },
+  {"key": "Urun_Sec",
+    "value": "ProductList",
+    "type" : "id"
+  },
+  {"key": "Urun_Sepete_Ekle",
+  "value": "//button[@id='addToCart']",
+  "type" : "xpath"
+  },
+  {"key": "Urun_PopUp_Kapat",
+    "value": "//a[@class = 'checkoutui-Modal-2iZXl']",
+    "type" : "xpath"
+  },
+  {"key": "Urun_Iki_Sepete_Ekle",
+    "value": "//button[@class='add-to-basket button small']",
+    "type" : "xpath"
+  },
+  {"key": "Urun_Sepete_Ekleme_Dogrulama",
+    "value": "product_name_3Lh3t",
+    "type" : "classname"
+  },
+  {"key": "Urun_Ara_Button_Tıkla",
+    "value": "SearchBoxOld-buttonContainer",
+    "type" : "classname"
+  },
+  {"key": "Sepet",
+    "value": "span[id='shoppingCart']",
+    "type" : "css"
+  },
+  {"key": "Urun1",
+    "value": "(//div[@class='product_name_3Lh3t'])[1]",
+    "type" : "xpath"
+  },
+  {"key": "Urun2",
+    "value": "(//div[@class='product_name_3Lh3t'])[2]",
+    "type" : "xpath"
+  }
+
+]

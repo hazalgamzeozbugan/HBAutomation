@@ -1,0 +1,49 @@
+# Giriş yap butonuna tıkla
+*"Login_Giris_Button" elementine javascript ile tıkla
+
+#Email alanına <text> yaz
+* <text> textini "Login_Email_Input" elemente yaz
+
+#Email Giris yap butonuna tikla
+*Elementine tıkla "Login_Email_Button"
+
+#Password alanına <text> yaz
+* <text> textini "Login_Password_Input" elemente yaz
+
+#Password Giriş yap butonuna tıkla
+*Elementine tıkla "Login_Password_Button"
+
+#Oturum açıldı mı kontrol et
+*"Hesaba_Giris_Dogrulama" elementi "Hesabım" değerini içeriyor mu kontrol et
+
+#Urun arama alanına <text> yaz
+* <text> textini "Urun_Arama_Input" elemente yaz
+
+#Urun ara butonuna tıkla
+*Elementine tıkla "Urun_Ara_Button_Tıkla"
+
+#Urun arama listesinden urun sec
+*"Urun_Arama_List" elementine javascript ile tıkla
+*"5" saniye bekle
+*"2" numaralı sekmeye odaklan
+*"7" saniye bekle
+*"Urun_Sepete_Ekle" elementine javascript ile tıkla
+*"15" saniye bekle
+*"Urun_PopUp_Kapat" elementine javascript ile tıkla
+*"10" saniye bekle
+*"Urun_Iki_Sepete_Ekle" elementine javascript ile tıkla
+*"5" saniye bekle
+*"Urun_PopUp_Kapat" elementine javascript ile tıkla
+
+#Sepeti dogrula
+*"Sepet" elementine javascript ile tıkla
+*Sepetteki ilk ürünün textini "Urun1" ve ikinci ürünün "Urun2" textini karşılaştır
+
+
+
+
+
+
+
+
+
